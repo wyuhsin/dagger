@@ -1,0 +1,13 @@
+[server1]
+host = "localhost"
+port = 3306
+user = "your_user"
+password = "your_password"
+database = "your_database"
+
+[server2]
+host = "remote.db.example.com"
+port = 3306
+user = "your_user"
+password = "your_password"
+# database is optional

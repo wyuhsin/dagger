@@ -1,0 +1,5 @@
+[local_file_db]
+path = "/path/to/your/database.db"
+
+[in_memory_db]
+path = ":memory:"

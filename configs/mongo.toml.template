@@ -1,0 +1,6 @@
+[server1]
+host = "localhost"
+port = 27017
+user = "your_user"
+password = "your_password"
+database = "your_auth_database"

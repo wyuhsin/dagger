@@ -1,0 +1,19 @@
+[server1]
+host = "hostname_or_ip"
+port = 22
+user = "your_username"
+key_filename = "/path/to/your/private_key"
+password = "your_password_if_not_using_key"
+
+[server2]
+host = "hostname_or_ip"
+port = 22
+user = "your_username"
+password = "your_password"
+
+# Add more server configurations below, following the format.
+# Example with a descriptive name:
+# ["My Web Server"]
+# host = "192.168.1.100"
+# user = "webapp"
+# ...
