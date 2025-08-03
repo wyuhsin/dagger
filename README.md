@@ -89,3 +89,7 @@ To connect to the `my_dev_db` MySQL server defined in the example above:
 ```bash
 python dagger.py mysql my_dev_db
 ```
+
+## Acknowledgments
+
+This project was developed with the assistance of Gemini, a large language model from Google.
