@@ -1,7 +1,0 @@
-toml
-paramiko
-redis
-pymongo
-etcd3
-psycopg2-binary
-pyyaml
